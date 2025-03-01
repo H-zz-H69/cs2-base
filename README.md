@@ -11,7 +11,7 @@ To Inject you can use our Injector: https://github.com/H-zz-H69/cs2-injector
 - **Health ESP** – Health bar visualization  
 - **Health Text ESP** – Numeric health display  
 - **ESP Lines** – Lines connecting enemies to the screen  
-- **Dark Mode** – UI with a dark theme  
+- **Dark Mode** – dark mode  
 - **Team Check** – Ignores teammates  
 
 ## 🛠️ Code & Learning  
